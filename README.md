@@ -1,6 +1,9 @@
 # Bit-coin-trend-Machine-Learning-Analysis
 Author: Yi-Chen Kuo
 
+Make sure to download the "BTCUSDT" dataset via:
+https://www.kaggle.com/datasets/kaanxtr/btc-price-1m
+
 ## Minimal Full Pipeline
 
 To regenerate all results in the report:
